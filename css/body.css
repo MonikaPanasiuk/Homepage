@@ -1,0 +1,45 @@
+.body {
+    color:#193232;
+    max-width: 1000px;
+    max-height: 100%;
+    margin: auto;
+    background-color: #dff2f2;
+    line-height: 1.8;
+}
+.blackBackground {
+    background: #8da4a4;
+}
+
+.body__mainHeader {
+    color: #0c520c;
+}
+
+.body__subHeader {
+    color: #060670;  
+}
+
+.body__summary {
+    background-color: #f3f6f6;
+}
+
+.body__description {
+    padding: 15px;
+    margin: 20px;
+}
+
+.body__description__hightlight {
+    color: #275991;
+}
+
+.body__listHeader {
+    color: #0f0fc5;
+}
+
+
+.body__image {
+    border: 1px solid black;
+    border-radius: 20px;
+    outline: 1px solid #275991;
+    text-shadow: 15px -5px 74px 9px #5687C4;
+}
+
