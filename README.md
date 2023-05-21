@@ -1,4 +1,12 @@
 # Homepage
 ![Homepage](https://github.com/MonikaPanasiuk/Homepage/blob/main/images/Monika%20(1).png?raw=true)
-## Demo
-[Homepage](https://monikapanasiuk.github.io/Homepage/)
+## Demo:
+[Homepage] (https://monikapanasiuk.github.io/Homepage/)
+### Technology used:
+- HTML
+- CSS
+- JavaScript
+- BEM convention
+- Normalize
+### UI:
+
