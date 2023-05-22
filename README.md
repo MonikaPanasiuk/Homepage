@@ -10,7 +10,7 @@
 - BEM convention
 - Normalize
 ### UI:
-![Homepage](https://raw.githubusercontent.com/MonikaPanasiuk/Homepage/eab49f5a74ead168599ee091d35927f3ecb49331/images/homepage.png)
+![Homepage](https://raw.githubusercontent.com/MonikaPanasiuk/Homepage/1778c207222f6b8c4862f26c269abe6c046a8f7e/images/m..png)
 ### Functions:
 There are two functions in the project:
 - Change Color
@@ -25,4 +25,7 @@ When you click on "Hide Image" button, the image is hidden.
 
 3. Welcome function:
 When you open Console, welcome "Witam i pozdrawiam!" is displayed.
+
+### Author:
+Monika Panasiuk
 
