@@ -17,12 +17,12 @@ There are two functions in the project:
 - Hide Image
 - Welcome (dislpayed on Console)
 ### How do functions work:
-Change Color function:
+1. Change Color function:
 When you click on "Change Color" button, the background color changes for a darker color. 
 
-Hide Image function:
+2. Hide Image function:
 When you click on "Hide Image" button, the image is hidden. 
 
-Welcome function:
+3. Welcome function:
 When you open Console, welcome "Witam i pozdrawiam!" is displayed.
 
