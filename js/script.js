@@ -1,19 +1,33 @@
+{
+    const welcome = () => {
+        console.log("Witam i pozdrawiam!!");
+    }
 
-console.log("Witam i pozdrawiam!!");
+    const onHideImageClick = () => {
 
-let button = document.querySelector(".js-button");
-let image = document.querySelector(".js-image");
+        const image = document.querySelector(".js-image");
+        image.remove();
 
-button.addEventListener("click", () => {
-    image.remove();
-});
+    };
+
+    const onChangeBackgroundColor = () => {
+
+        const body = document.querySelector(".js-body");
+        body.classList.toggle("blackBackground");
+    };
+
+    const init = () => {
+        const changeBackgroundButton = document.querySelector(".js-changeBackgroundButton");
+        changeBackgroundButton.addEventListener("click", onChangeBackgroundColor);
+
+        const button = document.querySelector(".js-button");
+        button.addEventListener("click", onHideImageClick);
 
 
-let changeBackgroundButton = document.querySelector(".js-changeBackgroundButton")
-let body = document.querySelector(".js-body");
+        welcome();
+    }
 
-changeBackgroundButton.addEventListener("click", () => {
-body.classList.toggle ("blackBackground");
-});
+    init();
+}
 
 
